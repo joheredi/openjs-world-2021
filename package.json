@@ -1,0 +1,18 @@
+{
+  "name": "openjs-world-rest-client",
+  "version": "1.0.0",
+  "description": "A rest client built during the OpenJS World 2021 talk",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "openjsworld",
+    "typescript"
+  ],
+  "author": "Jose Manuel Heredia Hidalgo",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}

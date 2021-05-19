@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    //Setting Target: es2017 and module exnext to be able to use top-level await
+    "target": "es2017",
+    "module": "esnext",
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "declaration": true
+  }
+}
