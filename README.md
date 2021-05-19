@@ -14,9 +14,9 @@ Some of the features these type definitions enable are:
 - strongly-typed responses
 - strongly-typed request payload that help users build the request without the need to go back and forth to the REST documentation.
 
-If you are interested to see how this kind of clients would be used, take a look at the [sample](./src/samples.ts).
+If you are interested to see how this kind of clients would be used, take a look at the [sample](https://github.com/joheredi/openjs-world-2021/blob/main/src/samples.ts).
 
-If you want to see the type definitions, jump right to the [index.ts](./src/index.ts).
+If you want to see the type definitions, jump right to the [index.ts](https://github.com/joheredi/openjs-world-2021/blob/main/src/index.ts)
 
 ## Questions?
 
